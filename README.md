@@ -5,6 +5,7 @@ The project demonstrates how SQL can be used to analyze sales data, customer ord
 
 ---
 
+
 ## 📌 About the Project
 
 The database contains information about:
